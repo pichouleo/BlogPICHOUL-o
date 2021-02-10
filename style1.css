@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Pirata+One&display=swap');
+body {
+    margin: 1;
+}
+header img {
+    width: 4%;
+}
+#part1 h1 {
+    font-size: max(4vw, 30px);
+    text-align: center;
+    width: 60%;
+    margin-bottom: 5px;
+    padding-top: 6%;
+}
+#part1 h3 {
+    font-size: max(1.5vw,14px) ;
+    width: 50%;
+    text-align: right;
+    font-family: 'Pirata One', cursive;
+}
+#part1 img {
+    width: 40%;
+    float: right;
+}
+#part1{
+    padding-bottom: min(8%,135px);
+    font-family: 'Bangers', cursive;
+}
+
+#part2 img {
+    width:40%;
+
+}
+#part2 p {
+    width: 55%;
+    float: right;
+    font-size: max(2.3vw,4px);
+    margin-top: 5%;
+    margin-right: 2%;
+    
+    
+   
+}
+#part2 {
+    padding-bottom: 1;
+    font-family: 'Bangers', cursive;
+}
+
+
+#part3 p{
+    font-size: max(2.3vw,4px) ; 
+    width: 65%;
+    padding-top: 3%;
+
+}
+#part3 img {
+    width: 35%;
+    float: right;
+    padding-left:  10px;
+}
+#part3 {
+    padding-bottom: min(8%,135px);
+    font-family: 'Bangers', cursive;
+
+}
+
+#part4 img {
+    width: 50%;
+}
+#part4 p {
+    width: 45%;
+    float: right;
+    font-size: max(2.3vw,4px);
+    margin-right: 1%; 
+    font-family: 'Bangers', cursive; 
+
+}
+
+#copyrightandicons {
+    display: flex;
+    margin-top: 6%;
+    padding: 0 10px;
+    margin-bottom: 40px;
+}
+#copyright {
+    width: 50%;
+    margin-left: 5%;
+    font-size: max(2.3vw,4px);
+}
+#icons {
+    width: 50%;
+    text-align: right;
+    margin-right: 5%;
+   
+
+}
+#icons a {
+    display: inline-block;
+    padding: 0 15px;
+    font-size: max(2.3vw,4px);
+    color: #404040;
+}
+
+#icons a:hover {
+    transform: scale(1.5);
+    transition: 0.1s;
+    color: black;
+}
